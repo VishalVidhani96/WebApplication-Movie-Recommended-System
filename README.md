@@ -5,3 +5,6 @@ In this repo, you will find the code of the movie recommendation system web appl
 
 I have also deployed my application on hodoku : https://mrs-vish.herokuapp.com/
 
+
+
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/VishalVidhani96/WebApplication-Movie-Recommended-System/blob/main/Capture.PNG)?raw=true)
